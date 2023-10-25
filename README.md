@@ -1,6 +1,6 @@
 # Tienda-Online
 
-#Integrantes
+# Integrantes
 Sebastian Martinez Jara
 Gerson Urrea
 Joaquin Silva
